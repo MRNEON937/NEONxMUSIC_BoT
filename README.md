@@ -1,13 +1,13 @@
-### Powered By @BikashHalder & @AdityaHalder 
+### Powered By @LxF_MR_NEON & @LxF_MR_NEON 
 
-### Join @BikashGadgetsTech For More Update
+### Join @THESUKOONLYRIC For More Update
 
-### Join @AdityaCheats For Hack
+### Join @THESUKOONLYRIC For Hack
 
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
+### Join Our Chats @THESUKOONLYRIC & @THESUKOONLYRIC
 
 
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
+### Powered By [@THESUKOONLYRIC](https://t.me/THESUKOONLYRIC)
 
 
 ### ABOUT THIS BOT
@@ -70,10 +70,10 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/THESUKOONLYRIC)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [NEON](https://t.me/THESUKOONLYRIC)
 
 ## 💕 Special Thanks
 
@@ -85,4 +85,4 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [NEONxHalder](https://t.me/THESUKOONLYRIC) & [NEONxHalder](https://t.me/THESUKOONLYRIC)
