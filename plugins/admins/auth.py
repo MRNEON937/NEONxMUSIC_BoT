@@ -1,7 +1,7 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By@THESUKOONLYRIC & @THESUKOONLYRIC
+# Join @THESUKOONLYRIC For More Update
+# Join @THESUKOONLYRIC For Hack
+# Join Our Chats @THESUKOONLYRIC
 
 from pyrogram import filters
 from pyrogram.types import Message
@@ -155,7 +155,7 @@ async def authusers(client, message: Message, _):
         
         
         
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @THESUKOONLYRIC
+# Join @THESUKOONLYRIC
+# Join @THESUKOONLYRIC For Hack
+# Join Our Chats @THESUKOONLYRIC
